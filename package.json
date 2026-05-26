@@ -1,11 +1,10 @@
 {
-  "name": "testapp",
+  "name": "cloudpetesting",
   "version": "1.0.0",
-  "description": "CloudPe test deployment",
+  "description": "CloudPe Docker Test App",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
-    "build": "echo Build completed"
+    "start": "node server.js"
   },
   "dependencies": {
     "express": "^4.19.2"
