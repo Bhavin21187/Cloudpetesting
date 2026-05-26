@@ -1,0 +1,13 @@
+{
+  "name": "testapp",
+  "version": "1.0.0",
+  "description": "CloudPe test deployment",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "echo Build completed"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
